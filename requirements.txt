@@ -15,5 +15,3 @@ setuptools==65.5.0
 packaging==23.1
 Flask-Mail==0.9.1
 PyJWT==2.8.0
-qrcode[pil]==7.4.2
-base64==1.2.0
